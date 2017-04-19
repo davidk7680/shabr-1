@@ -1,0 +1,34 @@
+.navbar-fixed-top{
+    background-color: black;
+    padding: 10px;
+}
+
+.navbar{
+    background-color: grey;
+    border-color: grey;
+}
+
+a{
+    color: blue;
+}
+
+.jumbotron{
+    background-color: green;
+}
+
+footer{
+    padding:10px;
+}
+
+h1, h2, p{
+    text-align: center;
+    font-family: 'Ranga', serif;
+}
+
+.container{
+    background-color:grey;
+}
+
+strong{
+    text-align: center;
+}
