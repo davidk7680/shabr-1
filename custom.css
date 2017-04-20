@@ -22,10 +22,9 @@ footer{
 
 h1, h2, p{
     text-align: center;
-    font-family: 'Ranga', serif;
+    font-family: 'Sofia';
 }
-
-.container{
+.container-fluid{
     background-color:grey;
 }
 
